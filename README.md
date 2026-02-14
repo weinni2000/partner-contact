@@ -35,11 +35,13 @@ addon | version | maintainers | summary
 [partner_contact_department](partner_contact_department/) | 19.0.1.0.0 |  | Assign contacts to departments
 [partner_contact_job_position](partner_contact_job_position/) | 19.0.1.0.0 |  | Categorize job positions for contacts
 [partner_contact_personal_information_page](partner_contact_personal_information_page/) | 19.0.1.0.0 | <a href='https://github.com/Daemo00'><img src='https://github.com/Daemo00.png' width='32' height='32' style='border-radius:50%;' alt='Daemo00'/></a> | Add a page to contacts form to put personal information
+[partner_email_check](partner_email_check/) | 19.0.1.0.0 |  | Validate email address field
 [partner_fax](partner_fax/) | 19.0.1.0.0 |  | Add fax number on partner
 [partner_identification](partner_identification/) | 19.0.1.0.0 |  | Partner Identification Numbers
 [partner_manual_rank](partner_manual_rank/) | 19.0.1.0.0 | <a href='https://github.com/luisg123v'><img src='https://github.com/luisg123v.png' width='32' height='32' style='border-radius:50%;' alt='luisg123v'/></a> <a href='https://github.com/frahikLV'><img src='https://github.com/frahikLV.png' width='32' height='32' style='border-radius:50%;' alt='frahikLV'/></a> | Be able to manually flag partners as customer or supplier.
 [partner_mobile](partner_mobile/) | 19.0.1.0.0 | <a href='https://github.com/alexis-via'><img src='https://github.com/alexis-via.png' width='32' height='32' style='border-radius:50%;' alt='alexis-via'/></a> | Add mobile field on partner
 [partner_multi_relation](partner_multi_relation/) | 19.0.1.0.0 |  | Partner Relations
+[partner_pricelist_search](partner_pricelist_search/) | 19.0.1.0.0 |  | Partner pricelist search
 [partner_priority](partner_priority/) | 19.0.1.0.0 | <a href='https://github.com/patrickrwilson'><img src='https://github.com/patrickrwilson.png' width='32' height='32' style='border-radius:50%;' alt='patrickrwilson'/></a> | Adds priority to partners.
 [partner_ref_unique](partner_ref_unique/) | 19.0.1.0.0 |  | Add an unique constraint to partner ref field
 [partner_stage](partner_stage/) | 19.0.1.0.0 | <a href='https://github.com/dreispt'><img src='https://github.com/dreispt.png' width='32' height='32' style='border-radius:50%;' alt='dreispt'/></a> | Add lifecycle Stages to Partners
